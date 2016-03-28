@@ -1,0 +1,28 @@
+name: misfit.events
+favicon: null
+layout_spectrum: 0.0026785372756421566
+typography_spectrum: 0.1733336492907256
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.04300486226566136
+  lightness: 0.32448038039729
+  saturation: 0.3528661171440035
+  rhythmicContrast: 0.1459991387091577
+purpose: []
